@@ -1,5 +1,6 @@
 # MovieManiac
 This is the automation script that verifies the data of movie from IMDB and Wikipedia.
+Switch to master branch
 Clone the repository on your system.
 I have Added all the required libraries on the pox.xml file.
 You need to have JAVA and codeEditor(eclipse) installed on your system.
